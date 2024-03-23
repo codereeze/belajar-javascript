@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attribute Event</title>
+</head>
+<body>
+    <h1 id="show"></h1>
+    <button onclick="information()">Tampilakan info</button>
+
+    <script>
+        // attribut event adalah cara paling mudah untuk membuat event
+        // yaitu dengan cara menuliskan nama event pada tag html
+
+
+        function information(){
+            let showInfo = document.getElementById("show");
+            showInfo.textContent = "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea, quaerat.";
+        }
+    </script>
+</body>
+</html>
