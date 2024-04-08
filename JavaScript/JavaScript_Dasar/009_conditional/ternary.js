@@ -8,13 +8,12 @@
 
 // penggunaan di luar variable
 let umur = 18;
-console.log(umur == 18 ? "Masih remaja" : "Udah tuwir"); // Masih remaja
+console.log(umur == 18 ? "Masih remaja" : "Udah tuwir"); 
 
 
 // penggunaan di dalam variable
 let nilai = 90;
 let result = nilai >= 92 ? "lulus dengan pujian" : "kamu tidak lulus";
-console.log(result); // kamu tidak lulus
-
+console.log(result);
 
 /* <===============================================================================> */

@@ -8,10 +8,10 @@
 
 // pembulatan ke bawah
 let floor = Math.round(10.4);
-console.log(floor); // 10
+console.log(floor); 
 
 // pembulatan ke atas
 let ceil = Math.round(10.5);
-console.log(ceil); // 11
+console.log(ceil); 
 
 /* <===============================================================================> */

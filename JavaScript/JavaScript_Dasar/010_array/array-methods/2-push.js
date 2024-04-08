@@ -6,8 +6,8 @@
 let cars = ["toyota", "honda", "hino", "mercedesbenz"];
 cars.push("lamborghini", "farrari");
 
-console.log(cars); // ["toyota", "honda", "hino", "mercedesbenz", "lamborghini", "farrari"]
-console.log(cars.length); // 6
+console.log(cars); 
+console.log(cars.length);
 
 
 /* <===============================================================================> */

@@ -8,11 +8,11 @@
 let cities = ["Bandung", "Jakarta", "Tasikmalaya", "Banjar"];
 let [city1, city2, city3, city4] = cities
 
-console.log(city1); // Bandung
+console.log(city1); 
 
 // rest di destructuring array
 let [kota1, kota2, ...rest] = cities;
-console.log(kota1, rest); // Bandung [ 'Tasikmalaya', 'Banjar' ]
+console.log(kota1, rest); 
 
 
 
@@ -26,7 +26,7 @@ let person = {
 }
 let {name, age, ...restVar} = person;
 
-console.log(name); // Mas Faiz
-console.log(restVar); // { city: 'Ngawi', hobby: 'Dance' }
+console.log(name);
+console.log(restVar); 
 
 /* <===============================================================================> */

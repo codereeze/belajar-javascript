@@ -6,6 +6,6 @@
 let moneys = new Set(["Rupiah", "Dollar", "Peso"]);
 
 let getLength = moneys.size;
-console.log(getLength); // 3
+console.log(getLength); 
 
 /* <===============================================================================> */

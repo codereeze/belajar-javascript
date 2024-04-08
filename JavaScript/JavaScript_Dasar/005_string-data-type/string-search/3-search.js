@@ -6,11 +6,11 @@
 
 let text = "Ini adalah contoh teks dengan kata kunci";
 let result = text.search(/kata kunci/g);
-console.log(result); // 30
+console.log(result); 
 
 let text2 = "Ini adalah contoh teks tanpa kata kunci";
 let result2 = text2.search(/none/g)
-console.log(result2); // -1
+console.log(result2); 
 
 
 /* <===============================================================================> */

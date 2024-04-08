@@ -9,8 +9,8 @@
 
 // hoisting pada variable
 console.log(fullName); // undefined
-var fullName = "Atyla Azfa Al Harits";
-console.log(fullName); // Atyla Azfa Al Harits
+var fullName = "John Doe";
+console.log(fullName);
 
 
 

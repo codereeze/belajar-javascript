@@ -5,7 +5,7 @@
 
 
 let fruits = ["apple", "banana", "cherry"];
-console.log(fruits.toString()); // apple,banana,cherry
+console.log(fruits.toString()); 
 
 
 /* <===============================================================================> */

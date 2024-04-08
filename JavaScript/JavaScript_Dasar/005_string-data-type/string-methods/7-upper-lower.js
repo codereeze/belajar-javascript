@@ -6,13 +6,13 @@
 // uppercase
 
 let textUpper = "ini adalah teks uppercase";
-console.log(textUpper.toUpperCase()); // INI ADALAH TEKS UPPERCASE
+console.log(textUpper.toUpperCase()); 
 
 
 
 // lowercase
 
 let textLower = "INI ADALAH TEXT LOWERCASE";
-console.log(textLower.toLowerCase()); // ini adalah text lowercase
+console.log(textLower.toLowerCase()); 
 
 /* <===============================================================================> */

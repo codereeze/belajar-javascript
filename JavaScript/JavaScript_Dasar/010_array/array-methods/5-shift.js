@@ -6,8 +6,8 @@
 let brands = ["avanza", "jazz", "mobilio"];
 let firstBrand = brands.shift();
 
-console.log(firstBrand); // avanza
-console.log(brands); // ["jazz", "mobilio"]
+console.log(firstBrand); 
+console.log(brands); 
 
 
 /* <===============================================================================> */

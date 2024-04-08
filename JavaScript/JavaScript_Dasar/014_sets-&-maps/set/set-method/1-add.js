@@ -12,6 +12,6 @@ nameRandom.add("Norman"); // diabaikan
 
 
 let setToArray = Array.from(nameRandom);
-console.log(setToArray); // [ 'Hardin', 'Faiz', 'Norman' ] (method add ini tidak melakukan penambahan nilai, karena nilai Norman sudah ada sebelumnya)
+console.log(setToArray); 
 
 /* <===============================================================================> */

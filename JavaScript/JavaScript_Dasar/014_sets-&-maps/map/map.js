@@ -13,9 +13,7 @@ let fish = new Map([
 ]);
 
 
-console.log(fish.get("kunci1")); // cupang
+console.log(fish.get("kunci1")); 
 
-
-// selanjutnya kita akan membahas method-method yang ada di object Map
 
 /* <===============================================================================> */

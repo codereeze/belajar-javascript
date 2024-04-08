@@ -5,8 +5,7 @@
 /* <===============================================================================> */
 
 let text = "Hello World!!";
-console.log(text.substr(6, 5)); // World
-
-console.log(text.substr(6)); // World!!
+console.log(text.substr(6, 5)); 
+console.log(text.substr(6)); 
 
 /* <===============================================================================> */

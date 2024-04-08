@@ -4,10 +4,10 @@
 /* <===============================================================================> */
 /* <===============================================================================> */
 
-let fullName = "Atyla Azfa Al Harits";
+let fullName = "Jane Doe";
 let strToArray = fullName.split(" ");
 
-console.log(strToArray); // [ 'Atyla', 'Azfa', 'Al', 'Harits' ]
+console.log(strToArray); 
 
 // pada kode di atas saya menggunakan karakter spasi untuk acuan batas panjang array nya
 // acuannya bebas tidak harus menggunakan spasi. bisa dengan huruf atau karakter lainnya
@@ -17,7 +17,7 @@ console.log(strToArray); // [ 'Atyla', 'Azfa', 'Al', 'Harits' ]
 // kita bisa memecah string berdasarkan beberapa substring pertama
 // string.split(separator, limit)
 
-console.log(fullName.split(" ", 2)); // [ 'Atyla', 'Azfa' ]
+console.log(fullName.split(" ", 2)); 
 
 // pada contoh di atas saya memecah string berdasarkan 2 substring pertama
 

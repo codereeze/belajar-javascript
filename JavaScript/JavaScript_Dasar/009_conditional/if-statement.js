@@ -6,7 +6,7 @@
 // if-statement
 
 if (10 + 10 == 20) {
-  console.log("Kamu benar"); // kamu benar
+  console.log("Kamu benar"); 
 }
 // pada contoh diatas terdapat kondisi jika 10 + 10 hasilnya sama dengan 20 maka akan menjalankan console.log("Kamu benar")
 
@@ -24,7 +24,7 @@ if (30 + 10 == 50) {
   console.log("jawaban benar");
   // kondisi if bernilai false maka, kondisi ini tidak akan di jalankan
 } else {
-  console.log("jawaban salah"); // jawaban salah
+  console.log("jawaban salah"); 
   // kondisi else dijalankan karna 30 + 10 = 40 bukan 50
 }
 
@@ -42,7 +42,7 @@ if (pilihan == "gajah") {
   console.log("kamu menang");
   // kondisi ini tidak dijalankan karena var pilihan nilainya tidak sama dengan gajah
 } else if (pilihan == "semut") {
-  console.log("kamu seri"); // kamu seri
+  console.log("kamu seri"); 
   // kondisi ini dijalankan karena var pilihal nilainya sama dengan semut
 } else {
   console.log("kamu kalah");
@@ -62,9 +62,9 @@ if (pilihan == "gajah") {
 // contoh
 if (true) {
   if (!false) {
-    console.log("Hello World!"); // Hello World!
+    console.log("Hello World!"); 
     if (true == !false) {
-      console.log("Hallo Dunia!"); // Hallo Dunia!
+      console.log("Hallo Dunia!"); 
     }
   }
 }

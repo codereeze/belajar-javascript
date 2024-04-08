@@ -7,9 +7,9 @@
 
 // contoh for-in pada object
 let person = {
-    fullName: "Atyla Azfa Al Harits",
+    fullName: "John Doe",
     age: 18,
-    school: "SMK Negeri 3 Banjar",
+    school: "SMK Jujutsu Tokyo",
     hobby: "Programming",
 }
 
@@ -24,9 +24,9 @@ for(let key in person){
 
 // contoh for-in pada array
 let mySelf = [
-    "Harits Al Azfa Atyla", 
+    "Doe John", 
     18, 
-    "SMK Negeri 3 Banjar", 
+    "SMK Jujutsu Tokyo", 
     "programming"
 ];
 

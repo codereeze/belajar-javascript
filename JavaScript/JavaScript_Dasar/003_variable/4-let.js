@@ -5,13 +5,13 @@
 
 
 // contoh penggunaan kata kunci let
-let fullName = "Atyla Azfa Al Harits";
-console.log(fullName); // Atyla Azfa Al Harits
+let fullName = "Jane Doe";
+console.log(fullName);
 
 
 // ubah isi variable fullName
-fullName = "Harits Al Azfa Atyla";
-console.log(fullName); // Harits Al Azfa Atyla
+fullName = "Doe Jane";
+console.log(fullName);
 
 
 /* <===============================================================================> */

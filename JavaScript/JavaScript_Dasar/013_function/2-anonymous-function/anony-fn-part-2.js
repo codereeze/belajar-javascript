@@ -5,15 +5,15 @@
 /* <===============================================================================> */
 
 let person = {
-    firstName: "Azfa",
-    lastName: "Harits",
+    firstName: "Jane",
+    lastName: "Doe",
     sayHello : function (){
         console.log(`Hello, my name is ${this.firstName} ${this.lastName}`);
     }
 }
 
 // jalankan anonymous
-person.sayHello(); // Hello, my name is Azfa Harits
+person.sayHello(); 
 
 
 
@@ -21,7 +21,7 @@ person.sayHello(); // Hello, my name is Azfa Harits
 let animals = ["kucing", "harimau", function (animal, sound) { console.log(`this is ${animal} sound '${sound}'`);}];
 
 // jalankan anonymous
-animals[2]("cat", "miawww"); // this is cat sound 'miawww'
+animals[2]("cat", "miawww"); 
 
 
 // mungkin bagi yang masih baru belajar akan terlihat membingungkan 

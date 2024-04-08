@@ -6,7 +6,7 @@
 /* <===============================================================================> */
 
 function sayHello(){
-    let name = "Harits";
+    let name = "Jane";
     console.log("Hello, how are you?");
     console.log(`my name is ${name}`);
 }
@@ -14,10 +14,6 @@ function sayHello(){
 // panggil nama function untuk menjalankan function
 
 sayHello();
-// Output:
-// Hello, how are you?
-// my name is Harits 
-
 
 
 // secara default function itu tidak mengembalikan sebuah nilai / value
@@ -37,16 +33,16 @@ function sum(){
     return total; // 220
 }
 
-console.log(`Hasilnya adalah ${sum()}`); // Hasilnya adalah 220
+console.log(`Hasilnya adalah ${sum()}`); 
 
 
 
 // menghentikan eksekusi function dengan kata kunci return
 function person(){
     // kode ini akan dieksekusi
-    console.log("Nama: Atyla Azfa Al Harits");
-    console.log("Kelas: XII RPL 1");
-    console.log("Sekolah: SMK Negeri 3 Banjar");
+    console.log("Nama: Gojo Satoru");
+    console.log("Kelas: XII DKV 1");
+    console.log("Sekolah: SMK Jujutsu Tokyo");
 
     return
 
@@ -58,12 +54,6 @@ function person(){
 
 // panggil function
 person();
-
-// Output:
-// Nama: Atyla Azfa Al Harits
-// Kelas: XII RPL 1
-// Sekolah: SMK Negeri 3 Banjar
-
 
 // selanjutnya kita akan membuat function yang dapat menerima argument dan parameter
 // saya buat materinya ber-part agar tidak terlalu menumpuk di satu file

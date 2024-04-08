@@ -76,12 +76,12 @@ console.log("Tono \"membaca\" buku di perpustakaan");
 
 // mengabungkan string dari variable
 let firstName = "Nama depan: ";
-let atyla = "Atyla";
+let jane = "Jane";
 
-console.log(firstName + atyla); // Nama depan: Atyla
+console.log(firstName + jane); 
 
 // menggabungkan string
-console.log("Nama belakang:" + " " + "Al Harits"); // Nama belakang: Al Harits 
+console.log("Nama belakang:" + " " + "Cortez");
 
 
 /* <===============================================================================> */

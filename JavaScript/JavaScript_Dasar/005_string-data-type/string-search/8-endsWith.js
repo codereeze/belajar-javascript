@@ -5,8 +5,8 @@
 /* <===============================================================================> */
 /* <===============================================================================> */
 
-let lastName = "Al Harits";
-console.log(lastName.endsWith("Harits")); // true
-console.log(lastName.endsWith("Al")); // false
+let lastName = "Doe Jane";
+console.log(lastName.endsWith("Doe")); // true
+console.log(lastName.endsWith("Jane")); // false
 
 /* <===============================================================================> */

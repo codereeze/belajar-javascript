@@ -20,8 +20,8 @@ class PersonalName{
 }
 
 
-PersonalName.createName("Faiz", "Akamz"); // Hello my name is Faiz Akamz
-PersonalName.createName(); // Mohon maaf nama anda kurang dari 2 kata
+PersonalName.createName("Faiz", "Akamz");
+PersonalName.createName(); 
 
 /* <===============================================================================> */
 

@@ -14,16 +14,15 @@ let person = {
     }
 }
 
-person.sayYourName(); // My name is undefined undefined
+person.sayYourName(); 
 
 
 // adapun masalah lainnya diantaranya
 // 1. tidak bisa menggunakan argument object
-// 2. tidak bisa menggunakan function generator (akan kita bahas di folder generator function)
-// 3. tidak bisa mengakses super (akan kita pelajari di folder OOP JavaScript)
+// 2. tidak bisa menggunakan function generator
+// 3. tidak bisa mengakses super 
 
 
-// silahkan ikuti saja struktur alur dari folder ini
-// pelan-pelan akan kita bahas di folder-folder yang akan datang
+
 
 /* <===============================================================================> */

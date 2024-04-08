@@ -12,8 +12,8 @@ let listTipeDataJS = new Map([
 ]);
 
 
-console.log(listTipeDataJS.has("data4")); // true
-console.log(listTipeDataJS.has("data5")); // false
+console.log(listTipeDataJS.has("data4"));
+console.log(listTipeDataJS.has("data5")); 
 
 
 /* <===============================================================================> */

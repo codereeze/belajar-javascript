@@ -10,7 +10,7 @@
 let akreditasi = "A";
 switch(akreditasi){
     case "A":
-        console.log("sekolah bagus"); // sekolah bagus
+        console.log("sekolah bagus"); 
         // kondisi ini akan dijalankan karena var akreditasi sama dengan A
     break;
     case "E":

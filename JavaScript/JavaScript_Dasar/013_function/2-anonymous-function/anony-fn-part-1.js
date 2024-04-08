@@ -12,7 +12,7 @@ let yourName = function (firstName, lastName){
     console.log(`hello, my name is ${firstName} ${lastName}`);
 }
 
-yourName("Al", "Harits"); // hello, my name is Al Harits
+yourName("Doe", "John");
 
 
 

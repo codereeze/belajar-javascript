@@ -11,6 +11,6 @@ let listTipeDataJS = new Map([
     ["data4", "Object"]
 ]);
 
-console.log(listTipeDataJS.keys()); // [Map Iterator] { 'data1', 'data2', 'data3', 'data4' }
+console.log(listTipeDataJS.keys()); 
 
 /* <===============================================================================> */

@@ -9,12 +9,12 @@
 
 
 // contoh penggunakan kata kunci const
-const lastName = "Al Harits";
+const lastName = "Doe";
 console.log(lastName);
 
 
 // ubah nilai dari variable lastName
-lastName = "Harits Al";
+lastName = "John Doe";
 console.log(lastName); // error
 
 // seperti yang dijelaskan tadi const digunakan untuk menampung nilai tetap

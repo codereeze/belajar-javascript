@@ -6,6 +6,6 @@
 var fruits = ["apple", "banana", "cherry", "date"];
 var slicedFruits = fruits.slice(1, 3);
 
-console.log(slicedFruits); // ["banana", "cherry"]
+console.log(slicedFruits); 
 
 /* <===============================================================================> */

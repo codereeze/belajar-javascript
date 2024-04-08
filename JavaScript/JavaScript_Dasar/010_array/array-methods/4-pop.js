@@ -6,7 +6,7 @@
 let fruits = ["apple", "banana", "cherry"];
 let lastFruit = fruits.pop();
 
-console.log(lastFruit); // cherry
-console.log(fruits); // ["apple", "banana"]
+console.log(lastFruit); 
+console.log(fruits);
 
 /* <===============================================================================> */

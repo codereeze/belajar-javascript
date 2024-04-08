@@ -7,7 +7,7 @@
 
 
 let person = {
-    fullName: "Harits Azfa Al Atyla",
+    fullName: "John Doe",
     age: 18,
 }
 

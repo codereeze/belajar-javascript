@@ -13,7 +13,7 @@ for(let char of text){
 
 
 // contoh penggunaan for-of loop pada array
-let person = ["Atyla", 18, "programming", "smkn 3 banjar"];
+let person = ["John", 18, "programming", "smk jujutsu tokyo"];
 for(let biodata of person){
     console.log(biodata);
 }

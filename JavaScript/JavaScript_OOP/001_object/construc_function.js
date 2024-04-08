@@ -22,9 +22,9 @@ function Mobil(){
 let ObjectMobil = new Mobil();
 
 // akses property
-console.log(ObjectMobil.merk); // Avanza
+console.log(ObjectMobil.merk); 
 
 // jalankan method run
-ObjectMobil.run(); // Mobil Avanza dengan brand Toyota berwarna Abu-abu melaju dengan cepat
+ObjectMobil.run();
 
 /* <===============================================================================> */

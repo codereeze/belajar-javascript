@@ -8,14 +8,14 @@
 
 // pre-increment
 let pre = 10;
-console.log(++pre); // 11
+console.log(++pre); 
 // pada contoh diatas variable pre langsung dinaikan nilainya 1 angka
 
 // contoh lainnya
 let a = 20;
 let b = ++a;
-console.log(a); // 21
-console.log(b); // 21
+console.log(a);
+console.log(b);
 // pada contoh diatas variable a dinaikan menjadi 21, dan  b akan menjadi 21
 
 

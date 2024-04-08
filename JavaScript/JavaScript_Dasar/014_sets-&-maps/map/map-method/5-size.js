@@ -11,6 +11,6 @@ let listTipeDataJS = new Map([
     ["data4", "Object"]
 ]);
 
-console.log(listTipeDataJS.size); // 4
+console.log(listTipeDataJS.size); 
 
 /* <===============================================================================> */

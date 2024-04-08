@@ -9,12 +9,12 @@
 
 // penggunaan with statement
 let person = {
-    fullName: "Atyla",
+    fullName: "John",
     age: 18,
     hobby: "Programming",
     address: {
-        subdistrict: "Lakbok",
-        city: "Ciamis",
+        subdistrict: "Tawang",
+        city: "Tasikmalaya",
         country: "Indonesia"
     }
 };
@@ -29,9 +29,6 @@ with(person){
 
     // pada contoh diatas kita hanya tinggal memanggil property-property nya saja
 }
-
-
-// silahkan cari masalah pada with statement
 
 
 /* <===============================================================================> */

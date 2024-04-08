@@ -1,3 +1,3 @@
-export let firstName = "Atyla";
-export let middleName = "Azfa Al";
-export let lastName = "Harits"
+export let firstName = "Guido";
+export let middleName = "Van";
+export let lastName = "Rossum"

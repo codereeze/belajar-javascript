@@ -17,13 +17,13 @@ console.log(angka);
 // bilangan bulat
 1234;
 let deretBilanganBulat = 1234567890;
-console.log(deretBilanganBulat); // 1234567890
+console.log(deretBilanganBulat); 
 
 // bilangan desimal
 // untuk membuat bilangan desimal gunakan titik bukan koma
 1.234;
 let deretBilanganDesimal = 1.23456789;
-console.log(deretBilanganDesimal); // 1.234567890
+console.log(deretBilanganDesimal); 
 
 /* <===============================================================================> */
 

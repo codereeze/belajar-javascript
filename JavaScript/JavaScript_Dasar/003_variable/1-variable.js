@@ -44,18 +44,18 @@ console.log(sayGoodAfternoon); // good afternoon
 
 
 // var
-var fullName = "Al Harits", address = "Lakbok, Ciamis", age = 18;
-console.log(fullName + " " + address + " " + age); // Al Harits Lakbok, Ciamis 18
+var fullName = "John Doe", address = "Jakarta, Indonesia", age = 18;
+console.log(fullName + " " + address + " " + age);
 
 
 // let
-let firstName = "Atyla", middleName = "Azfa Al", lastName = "Harits";
-console.log(firstName + " " + middleName + " " + lastName); // Atyla Azfa Al Harits
+let firstName = "John", middleName = "Doe", lastName = "Cortez";
+console.log(firstName + " " + middleName + " " + lastName);
 
 
 // const
-const langFavourite = "JavaScript", experience = "1 year", level = "Masih pemula";
-console.log(langFavourite + " " + experience + " " + level); // JavaScript 1 year Masih pemula
+const langFavorite = "JavaScript", experience = "1 year", level = "Masih pemula";
+console.log(langFavorite + " " + experience + " " + level);
 
 
 

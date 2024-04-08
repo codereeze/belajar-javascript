@@ -8,15 +8,11 @@
 
 // contoh property Math
 let PI = Math.PI;
-console.log(PI); // 3.141592653589793
+console.log(PI); 
 
 
 // contoh method Math
 let round = Math.round(10.4);
-console.log(round); // 10
-
-
-
-// untuk lebih jelasnya lagi, kalian bisa buka folder math-methods untuk lebih lanjutnya
+console.log(round);
 
 /* <===============================================================================> */

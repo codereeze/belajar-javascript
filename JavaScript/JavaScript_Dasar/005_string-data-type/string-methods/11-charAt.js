@@ -5,16 +5,15 @@
 
 // indeks dimulai dari 0 bukan 1
 
-let firstName = "Harits"; 
+let firstName = "John"; 
 
-console.log(firstName.charAt(0)); // H
-console.log(firstName.charAt(1)); // a
-console.log(firstName.charAt(2)); // r
-console.log(firstName.charAt(3)); // i
-console.log(firstName.charAt(4)); // t
-console.log(firstName.charAt(5)); // s
+console.log(firstName.charAt(0));
+console.log(firstName.charAt(1));
+console.log(firstName.charAt(2));
+console.log(firstName.charAt(3));
+
 
 // jika melebihi dari panjang stringnya maka akan mengembalikan string kosong
-console.log(firstName.charAt(6)); // 
+console.log(firstName.charAt(4)); // 
 
 /* <===============================================================================> */

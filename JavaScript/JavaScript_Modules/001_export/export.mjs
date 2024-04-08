@@ -5,7 +5,7 @@
 /* <===============================================================================> */
 
 // eksport variable
-export let nama = "Atyla Azfa Al Harits"
+export let nama = "John Doe"
 
 
 // eksport fungsi
@@ -15,8 +15,8 @@ export function sayHello(){
 
 // eksport object class
 export class Person{
-    name = 'Al Harits'
-    school = 'SMK Negeri 3 Banjar'
+    name = 'Jane Doe'
+    school = 'SMK Jujutsu'
 
     biodata(){
         return `Hello, saya ${this.name}, saya bersekolah di ${this.school}`

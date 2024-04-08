@@ -4,9 +4,9 @@
 /* <===============================================================================> */
 /* <===============================================================================> */
 
-let myName = new Set(["Atyla", "Azfa Al", "Harits"]);
-console.log(myName.has("Atyla")); // true
-console.log(myName.has("Budi")); // false
+let myName = new Set(["John", "Doe"]);
+console.log(myName.has("John"));
+console.log(myName.has("Jane")); 
 
 
 /* <===============================================================================> */

@@ -4,12 +4,11 @@
 /* <===============================================================================> */
 
 let names = new Map();
-names.set("key1", "Harits");
-names.set("key2", "Al");
-names.set("key3", "Azfa");
-names.set("key4", "Atyla");
+names.set("key1", "Doe");
+names.set("key2", "Jane");
 
 
-console.log(names.get("key4")); // Atyla
+
+console.log(names.get("key2"));
 
 /* <===============================================================================> */

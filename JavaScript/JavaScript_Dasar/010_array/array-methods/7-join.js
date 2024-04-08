@@ -7,6 +7,6 @@
 let names = ["budi", "faiz", "norman", "hardin"];
 let namesString = names.join(", ")
 
-console.log(namesString); // budi, faiz, norman, hardin
+console.log(namesString); 
 
 /* <===============================================================================> */

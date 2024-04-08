@@ -7,11 +7,11 @@
 
 // contoh penggunaan kata kunci var
 
-var sayYourName = "Atyla Azfa Al Harits";
-console.log(sayYourName); // Atyla Azfa Al Harits
+var sayYourName = "John Doe";
+console.log(sayYourName);
 
 // ubah isi variable sayYourName
-sayYourName = "Harits Al Azfa Atyla";
+sayYourName = "Doe John";
 console.log(sayYourName);
 
 

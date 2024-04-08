@@ -6,17 +6,17 @@
 
 // contoh membuat object
 const person = {
-    firstName: "Atyla",
-    middleName: "Azfa Al",
-    lastName: "Harits",
-    age: 18,
+    firstName: "Guido",
+    middleName: "Van",
+    lastName: "Rossum",
+    age: 30,
     introduction: function () {
         console.log(`pekenalkan nama saya, ${this.firstName} ${this.middleName} ${this.lastName}, saya berumur ${this.age}`);
     }
 }
 
 // contoh mengakses data object
-console.log(person.firstName); // Atyla
+console.log(person.firstName); 
 
 
 // akses property method dari object person
@@ -36,10 +36,10 @@ const car = {
     }
 }
 
-console.log(car.merk); // pajero sport
+console.log(car.merk); 
 
 // akses object di dalam object
-console.log(car.addressCompany.city); // Tokyo
-console.log(car.addressCompany.country); // Japan
+console.log(car.addressCompany.city); 
+console.log(car.addressCompany.country); 
 
 /* <===============================================================================> */

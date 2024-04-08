@@ -4,7 +4,7 @@
 /* <===============================================================================> */
 
 let text = "    Mas Faiz membeli burung di mafia burung     ";
-console.log(text.trim()); // Mas Faiz membeli burung di mafia burung
+console.log(text.trim()); 
 
 
 
@@ -13,12 +13,12 @@ console.log(text.trim()); // Mas Faiz membeli burung di mafia burung
 
 // menghapus whitespace pada bagian awal
 let firstName = "    Hardin";
-console.log(firstName.trimStart()); // Hardin
+console.log(firstName.trimStart()); 
 
 
 // menghapus whitespace pada bagian akhir;
 let lastName = "Sutono      ";
-console.log(lastName.trimEnd()); // Sutono
+console.log(lastName.trimEnd()); 
 
 
 /* <===============================================================================> */

@@ -6,9 +6,9 @@
 
 
 let teks = "Mas Faiz nonton konser setiap hari";
-console.log(teks.substring(9)); // nonton konser setiap hari
+console.log(teks.substring(9)); 
 
-console.log(teks.substring(0, 8)); // Mas Faiz
+console.log(teks.substring(0, 8)); 
 
 
 // bilangan negatif

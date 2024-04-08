@@ -10,6 +10,6 @@ let fruits2 = ["watermelon", "melon"];
 
 let allFruits = fruits1.concat(fruits2);
 
-console.log(allFruits); // [ 'apple', 'banana', 'watermelon', 'melon' ]
+console.log(allFruits); 
 
 /* <===============================================================================> */

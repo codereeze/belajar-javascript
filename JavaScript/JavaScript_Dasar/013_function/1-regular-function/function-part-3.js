@@ -23,7 +23,7 @@ function sum(name, fruit, ...restParameter){
 }
 
 
-console.log(sum("Atyla", "Apple", 3, 4, 5, 6, 7,)); // Atyla punya 25 buah Apple
+console.log(sum("John", "Apple", 3, 4, 5, 6, 7,)); 
 
 
 
@@ -44,9 +44,9 @@ function sumFruit(fruit, ...dataFruit){
 }
 
 let mangga = [10, 20, 30, 40];
-console.log(sumFruit("Mangga", ...mangga)); // Aku punya 100 buah Mangga
+console.log(sumFruit("Mangga", ...mangga)); 
 
-console.log(sumFruit("Pisang", ...[50, 60, 70, 80])); // Aku punya 260 buah Pisang
+console.log(sumFruit("Pisang", ...[50, 60, 70, 80]));
 
 
 
@@ -65,7 +65,7 @@ function sumBall(){
     return `Mas Faiz mempunyai ${total} bola voly`;
 }
 
-console.log(sumBall(12, 13, 14, 15, 16)); // Mas Faiz mempunyai 70 bola voly
+console.log(sumBall(12, 13, 14, 15, 16)); 
 
 
 /* <===============================================================================> */

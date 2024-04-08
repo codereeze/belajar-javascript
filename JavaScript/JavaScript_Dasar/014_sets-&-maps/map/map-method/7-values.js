@@ -11,7 +11,7 @@ let listTipeDataJS = new Map([
     ["data4", "Object"]
 ]);
 
-console.log(listTipeDataJS.values()); // [Map Iterator] { 'Number', 'String', 'Boolean', 'Object' }
+console.log(listTipeDataJS.values()); 
 
 /* <===============================================================================> */
 

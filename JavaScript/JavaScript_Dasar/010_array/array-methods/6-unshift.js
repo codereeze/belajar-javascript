@@ -7,8 +7,8 @@
 let namaBuah = ["pisang", "apple", "semangka"];
 let newLength = namaBuah.unshift("jambu", "salak");
 
-console.log(newLength); // 5 
-console.log(namaBuah); // [ 'jambu', 'salak', 'pisang', 'apple', 'semangka' ]
+console.log(newLength); 
+console.log(namaBuah); 
 
 
 /* <===============================================================================> */

@@ -6,10 +6,10 @@
 
 // pada huruf
 let huruf = ["c", "d", "f", "e", "a"];
-console.log(huruf.sort()); // [ 'a', 'c', 'd', 'e', 'f' ]
+console.log(huruf.sort()); 
 
 //pada angka
 let angka = [10, 30, 50, 20, 40];
-console.log(angka.sort()); // [ 10, 20, 30, 40, 50 ]
+console.log(angka.sort()); 
 
 /* <===============================================================================> */

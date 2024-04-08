@@ -18,27 +18,27 @@
 
 // penjumlahan
 let penjumlahan = 10 + 10;
-console.log(penjumlahan); // 20
+console.log(penjumlahan); 
 
 
 // pengurangan
 let pengurangan = 20 - 10;
-console.log(pengurangan); // 10
+console.log(pengurangan); 
 
 
 // perkalian
 let perkalian = 10 * 10;
-console.log(perkalian); // 100
+console.log(perkalian); 
 
 
 // pembagian
 let pembagian = 20 / 10;
-console.log(pembagian); // 2
+console.log(pembagian); 
 
 
 // sisa bagi
 let modulus = 5 % 3;
-console.log(modulus); // 2
+console.log(modulus); 
 
 
 // pemangkatan

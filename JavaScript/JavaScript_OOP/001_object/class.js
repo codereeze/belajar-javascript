@@ -23,11 +23,10 @@ class Mobil{
 let ObjectMobil = new Mobil();
 
 // akses property object Mobil
-console.log(ObjectMobil.brand); // Toyota
+console.log(ObjectMobil.brand); 
 
 // jalankan method run
-ObjectMobil.run(); // Mobil Avanza dengan brand Toyota berwarna Abu-abu melaju dengan cepat
-
+ObjectMobil.run(); 
 
 
 // untuk materi kedepannya mungkin saya akan menggunakan class dari pada constructor function

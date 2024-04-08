@@ -6,7 +6,7 @@
 class HelloWorld{
     constructor(){
         // kode langsung dijalankan tanpa harus memanggil method constructor
-        console.log("Hello World!"); // Hello World!
+        console.log("Hello World!"); 
     }
 }
 
@@ -32,6 +32,6 @@ class Person{
 
 // instansiasikan object Person
 let masFaiz = new Person("Faiz", "Hardin", "Norman");
-console.log(masFaiz.introducing()) // Perkenalkan nama saya, Faiz Hardin Norman. Senang bisa berkenalan dengan mu
+console.log(masFaiz.introducing()) 
 
 /* <===============================================================================> */

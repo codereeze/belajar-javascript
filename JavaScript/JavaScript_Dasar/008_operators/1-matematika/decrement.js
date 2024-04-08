@@ -8,14 +8,14 @@
 
 // pre-decrement
 let pre = 10;
-console.log(--pre); // 9
+console.log(--pre); 
 // pada contoh diatas variable pre langsung diturunkan nilainya 1 angka
 
 // contoh lainnya
 let a = 20;
 let b = --a;
-console.log(a); // 19
-console.log(b); // 19
+console.log(a);
+console.log(b);
 // pada contoh diatas variable a diturunkan menjadi 19, dan  b akan menjadi 19
 
 

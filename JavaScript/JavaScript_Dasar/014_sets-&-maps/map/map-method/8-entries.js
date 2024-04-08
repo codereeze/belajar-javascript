@@ -12,12 +12,5 @@ let listTipeDataJS = new Map([
 
 console.log(listTipeDataJS.entries());
 
-// Output:
-// [Map Entries] {
-//   [ 'data1', 'Number' ],
-//   [ 'data2', 'String' ],
-//   [ 'data3', 'Boolean' ],
-//   [ 'data4', 'Object' ]
-// }
 
 /* <===============================================================================> */

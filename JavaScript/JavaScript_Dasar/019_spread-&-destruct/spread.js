@@ -7,10 +7,10 @@
 let numbers = [1,2,3,4,5];
 
 // tanpa spread operator
-console.log(numbers); // [1,2,3,4,5]
+console.log(numbers);
 
 // menggunakan spread operator
-console.log(...numbers); // 1 2 3 4 5
+console.log(...numbers);
 
 
 
@@ -25,9 +25,9 @@ let fruitTranslateID = {
 }
 
 // tanpa spread operator
-console.log(fruitTranslateID); // { banana: 'Pisang', watermelon: 'Semangka', guava: 'Jambu', orange: 'Jeruk' }
+console.log(fruitTranslateID);
 
 // menggunakan spread operator
-console.log({ ...fruitTranslateID, dragonFruit: "Buah Naga"}); // { banana: 'Pisang', watermelon: 'Semangka', guava: 'Jambu', orange: 'Jeruk', dragonFruit: 'Buah Naga' }
+console.log({ ...fruitTranslateID, dragonFruit: "Buah Naga"}); 
 
 /* <===============================================================================> */

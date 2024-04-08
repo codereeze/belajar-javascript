@@ -1,1 +1,1 @@
-export let myName = "Atyla Azfa Al Harits"
+export let myName = "Jane Doe"

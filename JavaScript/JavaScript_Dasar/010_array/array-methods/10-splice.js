@@ -21,21 +21,21 @@ item1, item2, ... (opsional): Elemen-elemen yang akan ditambahkan ke dalam array
 let fruits = ["apple", "banana", "cherry"];
 fruits.splice(1, 1); // Menghapus elemen dengan indeks 1 (yaitu "banana")
 
-console.log(fruits); // ["apple", "cherry"]
+console.log(fruits); 
 
 
 // menambahkan element array
 let fruits2 = ["apple", "cherry"];
 fruits2.splice(1, 0, "banana", "date"); // Menambahkan "banana" dan "date" pada indeks 1
 
-console.log(fruits2); // ["apple", "banana", "date", "cherry"]
+console.log(fruits2); 
 
 
 // mengganti element array
 var fruits3 = ["apple", "banana", "cherry"];
 fruits3.splice(1, 1, "grape"); // Mengganti "banana" dengan "grape"
 
-console.log(fruits3); // ["apple", "grape", "cherry"]
+console.log(fruits3); 
 
 
 /* <===============================================================================> */

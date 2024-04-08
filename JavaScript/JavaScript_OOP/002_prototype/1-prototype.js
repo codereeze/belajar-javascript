@@ -19,6 +19,6 @@ Animal.prototype.descriptAnimal = function() {
 
 // object Animal
 let cat = new Animal("Kucing");
-cat.descriptAnimal(); // Kucing berwarna Orange berbunyi Rawwrrr
+cat.descriptAnimal(); 
 
 /* <===============================================================================> */

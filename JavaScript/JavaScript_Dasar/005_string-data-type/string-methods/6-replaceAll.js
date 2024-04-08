@@ -4,6 +4,6 @@
 /* <===============================================================================> */
 
 let text = "Mas Faiz membeli kebab di mafia kebab";
-console.log(text.replaceAll("kebab", "pentol")); // Mas Faiz membeli pentol di mafia pentol
+console.log(text.replaceAll("kebab", "pentol")); 
 
 /* <===============================================================================> */

@@ -11,7 +11,7 @@
 // mendeklarasikan variable tanpa kata kunci (var, let, const) akan menghasilkan error
 'use strict';
 a = "Ayo belajar JavaScript";
-console.log(a); // a is not defined
+console.log(a); 
 
 
 
@@ -22,7 +22,7 @@ console.log(a); // a is not defined
 
 'use strict';
 let person = {
-    nama: "Haritzzy",
+    nama: "John",
     hobby: "Programming, Game"
 }
 

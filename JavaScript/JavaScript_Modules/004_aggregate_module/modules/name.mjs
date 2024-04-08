@@ -1,5 +1,5 @@
-let firstName = "Atyla";
-let middleName = "Azfa Al";
-let lastName = "Harits";
+let firstName = "Guido";
+let middleName = "Van";
+let lastName = "Rossum";
 
 export { firstName, middleName, lastName }

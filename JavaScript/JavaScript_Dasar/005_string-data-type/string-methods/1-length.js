@@ -15,13 +15,13 @@
 
 
 // didalam variable
-let fullName = "Atyla Azfa Al Harits";
-console.log(fullName.length); // 20
+let fullName = "John Doe";
+console.log(fullName.length); 
 
 // perlu di ingat spasi di hitung sebagai karakter
 
 
 // didalam method argument
-console.log("Budi".length); // 4
+console.log("Budi".length); 
 
 /* <===============================================================================> */

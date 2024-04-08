@@ -30,11 +30,10 @@ console.log(`Rudy sedang \`berenang\` di sungai`);
 // 1. menggabungkan string tanpa menggunakan operator plus ( + )
 //    menggunakan `${namaVariable}` jauh lebih efisien dari pada operator plus
 
-let firstName = "Atyla Azfa";
-let lastName = "Al Harits";
+let firstName = "Jane";
+let lastName = "Doe";
 
 console.log(`Nama depan: ${firstName}, Nama belakang ${lastName}`); 
-// Nama depan: Atyla Azfa, Nama belakang: Al Harits
 
 
 // 2. membuat string multiline

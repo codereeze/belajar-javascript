@@ -10,7 +10,7 @@
 let nestedArray = [1, [2, [3, 4]], 5];
 let flatArray = nestedArray.flat();
 
-console.log(flatArray); // Output: [1, 2, [3, 4], 5]
+console.log(flatArray); 
 
 // jika tidak memberikan nilai argument maka, secara default method flat akan membongkar 1 tingkat ke dalam array
 
@@ -20,7 +20,7 @@ console.log(flatArray); // Output: [1, 2, [3, 4], 5]
 let deeplyNestedArray = [1, [2, [3, [4]]], 5];
 let deeplyFlatArray = deeplyNestedArray.flat(2);
 
-console.log(deeplyFlatArray); // Output: [1, 2, 3, [4], 5]
+console.log(deeplyFlatArray); 
 
 // pada contoh di atas, method flat membongkar 2 tingkat kedalam array
 

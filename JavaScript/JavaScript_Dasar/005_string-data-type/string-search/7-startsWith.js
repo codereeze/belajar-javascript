@@ -5,8 +5,8 @@
 /* <===============================================================================> */
 /* <===============================================================================> */
 
-let firstName = "Atyla Azfa";
-console.log(firstName.startsWith("Atyla")); // true
-console.log(firstName.startsWith("Azfa")); // false
+let firstName = "Jane Doe";
+console.log(firstName.startsWith("Jane")); // true
+console.log(firstName.startsWith("Doe")); // false
 
 /* <===============================================================================> */

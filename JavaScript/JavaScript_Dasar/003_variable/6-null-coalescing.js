@@ -6,14 +6,14 @@
 
 // jika ekspresinya null
 let firstName = null ?? "Nama depan tidak diketahui";
-console.log(firstName); // Nama depan tidak diketahui
+console.log(firstName);
 
 
 // jika ekspresinya undefined
 let middleName = undefined ?? "Nama tengah tidak diketahui";
-console.log(middleName); // Nama tengah tidak diketahui
+console.log(middleName);
 
 
 // jika ekspresinya ada
-let lastName = "Harits" ?? "Nama belakang tidak diketahui";
-console.log(lastName); // Harits
+let lastName = "Doe" ?? "Nama belakang tidak diketahui";
+console.log(lastName);

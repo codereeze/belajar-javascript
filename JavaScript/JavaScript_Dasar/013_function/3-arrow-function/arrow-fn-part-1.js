@@ -23,16 +23,13 @@ sayHello(); // Hallo Dunia
 let animalSound = (animal, sound) => console.log(`this is ${animal} sound ${sound}`);
 
 
-animalSound("Tiger", "Rawwrrr"); // this is Tiger sound Rawwrrr
-
+animalSound("Tiger", "Rawwrrr"); 
 
 
 // jika parameter yang dikirimkan hanya satu, kita boleh tidak menggunakan tanda kurung ()
 let yourName = name => console.log(`Hello ${name}`);
 
-yourName("Faiz Norman"); // Hello Faiz Norman
+yourName("Faiz Norman"); 
 
-
-// pada part selanjutnya kita akan membahas kekurangan dari arrow function
 
 /* <===============================================================================> */

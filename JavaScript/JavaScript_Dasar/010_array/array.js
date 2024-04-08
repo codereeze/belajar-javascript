@@ -14,9 +14,9 @@ let motor1 = "Yamaha";
 let motor2 = "Honda";
 let motor3 = "Suzuki";
 
-console.log(motor1); // Yamaha
-console.log(motor2); // Honda
-console.log(motor3); // Suzuki
+console.log(motor1); 
+console.log(motor2); 
+console.log(motor3); 
 
 
 // jika kita lihat kode diatas terlalu banyak menggunakan variable
@@ -24,30 +24,29 @@ console.log(motor3); // Suzuki
 
 // kode dengan array
 let motors = ["Yamaha", "Honda", "Suzuki"];
-console.log(motors[0]); // Yamaha
-console.log(motors[1]); // Honda
-console.log(motors[2]); // Suzuki
+console.log(motors[0]); 
+console.log(motors[1]); 
+console.log(motors[2]); 
 // kode diatas terlihat lebih simple kan
 
 
 // kita bisa mengubah nilai dari array
 motors[0] = "Kawasaki";
-console.log(motors[0]); // Kawasaki
+console.log(motors[0]); 
 // mengubah nilai array pada index ke 0
 
 
 // kita bisa menambahkan data array baru
 motors[3] = "Ducati";
-console.log(motors[3]); // ducati
+console.log(motors[3]); 
 
-
-console.log(motors); // ["Kawasaki", "Honda", "Suzuki", "Ducati"]
+console.log(motors);
 
 
 
 // kita bisa juga menghapus index dari array
 delete motors[3];
-console.log(motors); // ["Kawasaki", "Honda", "Suzuki", undefined]
+console.log(motors); 
 // pada contoh diatas kita menghapus index dari array tetapi tidak mengurangi panjang dari array tersebut
 
 console.log(motors[3]); // undefined
@@ -58,6 +57,6 @@ console.log(motors[3]); // undefined
 // kita juga bisa membuat array didalam array
 
 let randomArray = [[1,2,3], [4,5,6], "Hello World"];
-console.log(randomArray); // [[1,2,3], [4,5,6], "Hello World"]
+console.log(randomArray);
 
 /* <===============================================================================> */
